@@ -14,7 +14,7 @@ Demo application showing how to integrate with Ton.Place platform. This code ser
 
 ### 1. Get Your App Credentials
 
-1. Go to [ton.place/apps](https://ton.place/apps)
+1. Go to [ton.place/apps/manage](https://ton.place/apps)
 2. Create a new app
 3. Copy your `App ID` and `Secret`
 
